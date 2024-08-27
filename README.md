@@ -22,7 +22,10 @@ Pivot Tables: Created pivot tables to summarize and visualize key findings.
 
 *Files*
 Hotel Booking : https://github.com/Farhan-007khan/Hotel-Booking-Analysis/blob/main/hotel_bookings.csv Raw dataset
-Cleaned : https://github.com/Farhan-007khan/Hotel-Booking-Analysis/blob/main/Hotel%20cleaned%20data.xlsx Preprocessed dataset
+
+Cleaned : https://github.com/Farhan-007khan/Hotel-Booking-Analysis/blob/main/Hotel%20cleaned%20data.xlsx 
+
+Preprocessed dataset
 https://github.com/Farhan-007khan/Hotel-Booking-Analysis/blob/main/Hotel%20cancellation%20Analysis%20project.xlsx: Workbook containing pivot tables and visualizations
 
 **Instructions**
